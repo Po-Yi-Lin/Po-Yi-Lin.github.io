@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a research assistant at Institute of Mathematics, Academia Sinica, advised by [Hsieh-Sien Yu (尤釋賢)](https://www.math.sinica.edu.tw/members/d5039e13-0670-49c2-9e8d-a7ee8d1531ce?page_id=16).
+I am a research assistant at Institute of Mathematics, Academia Sinica, advised by [Shih-Hsien Yu (尤釋賢)](https://www.math.sinica.edu.tw/members/d5039e13-0670-49c2-9e8d-a7ee8d1531ce?page_id=16).
 Before coming to Academia Sinica, I studied physics at the [National Taiwan University](http://math.washington.edu/).
 
 ## Research Interests
@@ -15,7 +15,7 @@ Before coming to Academia Sinica, I studied physics at the [National Taiwan Univ
 
 - **[Aug. 2025]** Started research assistantship at Academia Sinica.
 
-<!-- 
+
 ## Publications
 
 {% include_relative _includes/publications.html %}
@@ -23,7 +23,7 @@ Before coming to Academia Sinica, I studied physics at the [National Taiwan Univ
 ## Notes and Presentations
 
 {% include_relative _includes/notes.html %}
--->
+
 
 
 
