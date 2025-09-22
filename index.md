@@ -14,20 +14,11 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$. -->
 
 ## Research Interests
 
-- **Mathematical Physics:**
-[comment]: <> - **Statistical Physics:** 
-[comment]: <> - **Mathematical Biology:** 
+- **Mathematical Physics**
 
 ## News
 
 - **[Aug. 2025]** Started research assistantship at Academia Sinica.
-
-<!-- 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree. 
--->
 
 <!-- 
 ## Publications
