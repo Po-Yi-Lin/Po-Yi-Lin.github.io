@@ -7,9 +7,9 @@ layout: homepage
 I am a research assistant at Institute of Mathematics, Academia Sinica, advised by [Hsieh-Sien Yu (尤釋賢)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
 Before coming to NTU I studied physics at the [National Taiwan University](http://math.washington.edu/).
 
-<!--I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
+<!-- I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
 I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.--!>
+$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$. -->
 
 
 ## Research Interests
