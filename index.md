@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a research assistant at Institute of Mathematics, Academia Sinica, advised by [Hsieh-Sien Yu (尤釋賢)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied physics at the [National Taiwan University](http://math.washington.edu/).
+I am a research assistant at Institute of Mathematics, Academia Sinica, advised by [Hsieh-Sien Yu (尤釋賢)](https://www.math.sinica.edu.tw/members/d5039e13-0670-49c2-9e8d-a7ee8d1531ce?page_id=16).
+Before coming to Academia Sinica, I studied physics at the [National Taiwan University](http://math.washington.edu/).
 
 <!-- I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
 I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
@@ -14,18 +14,20 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$. -->
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- **Mathematical Physics:**
+<!-- - **Statistical Physics:** 
+- **Mathematical Biology:** -->
 
 ## News
 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
+- **[Aug. 2025]** Started research assistantship at Academia Sinica.
+
+<!-- - **[Feb. 2020]** Seminar talk at NTU graduate student event
 - **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
 - **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree. -->
 
-## Publications
+<!-- ## Publications
 
 {% include_relative _includes/publications.html %}
 
@@ -56,12 +58,12 @@ when $X$ is an algebraic curve.
 - INTEGERS
 - Electronic Journal of Combinatorics
 - Taiwanese J. Math.
-- Inventiones
+- Inventiones 
 
 ## Misc. Links
 
 - [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
+- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) -->
 
 **Other template features:**
 - Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
