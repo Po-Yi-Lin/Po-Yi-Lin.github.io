@@ -12,11 +12,11 @@ Before coming to Academia Sinica, I studied physics at the [National Taiwan Univ
 - **Mathematical Physics**
 
 
-## Publications
+<!-- ## Publications -->
 
 <!--{% include_relative _includes/publications.html %} -->
 
-## Notes and Presentations
+<!-- ## Notes and Presentations -->
 
 <!--{% include_relative _includes/notes.html %} -->
 
