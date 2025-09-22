@@ -11,18 +11,14 @@ Before coming to Academia Sinica, I studied physics at the [National Taiwan Univ
 
 - **Mathematical Physics**
 
-## News
-
-- **[Aug. 2025]** Started research assistantship at Academia Sinica.
-
 
 ## Publications
 
-{% include_relative _includes/publications.html %}
+<!--{% include_relative _includes/publications.html %} -->
 
 ## Notes and Presentations
 
-{% include_relative _includes/notes.html %}
+<!--{% include_relative _includes/notes.html %} -->
 
 
 
