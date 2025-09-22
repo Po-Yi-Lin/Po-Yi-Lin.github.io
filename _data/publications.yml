@@ -1,5 +1,11 @@
 main:
 
+  - title: Ba-la-ba
+    authors: Po-Yi Lin
+    notes: in preparation
+    year: 2025
+    image: ./assets/img/teaser_example.png
+
   - title: Descartes' rule of signs for finite fields
     authors: Gary Fishman
     notes: in preparation
