@@ -15,10 +15,8 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$. -->
 ## Research Interests
 
 - **Mathematical Physics:**
-<!-- 
-- **Statistical Physics:** 
-- **Mathematical Biology:** 
--->
+[comment]: <> - **Statistical Physics:** 
+[comment]: <> - **Mathematical Biology:** 
 
 ## News
 
